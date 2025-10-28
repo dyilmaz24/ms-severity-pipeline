@@ -34,7 +34,7 @@ ms-severity-pipeline/
 ├── data/                            # Placeholder for example/simulated data
 ├── R/                               # Optional helper functions
 └── README.md
-
+```
 ---
 
 MIT License © 2025 Defne Yilmaz
