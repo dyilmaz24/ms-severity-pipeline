@@ -25,7 +25,7 @@ rmarkdown::render("vignettes/ms_severity_wrangling.Rmd", params = list(seed = 42
 ```
 The rendered HTML file will appear in the same folder.
 
----
+
 ## Repository Layout
 ms-severity-pipeline/
 ├── vignettes/
