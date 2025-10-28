@@ -27,7 +27,7 @@ The rendered HTML file will appear in the same folder.
 ---
 
 ## Repository Layout
-
+```
 ms-severity-pipeline/
 ├── vignettes/
 │   └── ms_severity_wrangling.Rmd    # Main synthetic vignette
