@@ -21,7 +21,7 @@ It demonstrates end-to-end preprocessing steps used in one of my dissertation re
 ## Reproduce
 Run directly in R:
 ```r
-rmarkdown::render("vignettes/ms_severity_wrangling.Rmd", params = list(seed = 42))
+rmarkdown::render("vignettes/ms_severity_wrangling.Rmd", params = list(seed = 42)) 
 
 ---
 ## Repository Layout
@@ -33,9 +33,7 @@ ms-severity-pipeline/
 └── README.md
 
 
-```bash
-cat > LICENSE << 'EOF'
-MIT License
+```
 
 Copyright (c) 2025 Defne Yilmaz
 
