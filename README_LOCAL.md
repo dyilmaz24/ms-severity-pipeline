@@ -22,6 +22,8 @@ It demonstrates end-to-end preprocessing steps used in one of my dissertation re
 Run directly in R:
 ```r
 rmarkdown::render("vignettes/ms_severity_wrangling.Rmd", params = list(seed = 42)) 
+```
+The rendered HTML file will appear in the same folder.
 
 ---
 ## Repository Layout
@@ -32,11 +34,6 @@ ms-severity-pipeline/
 ├── R/                               # Optional helper functions
 └── README.md
 
+---
 
-```
-
-Copyright (c) 2025 Defne Yilmaz
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-...
-
+MIT License © 2025 Defne Yilmaz
