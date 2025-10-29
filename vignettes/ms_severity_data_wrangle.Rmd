@@ -24,8 +24,7 @@ library(kableExtra)
 ```
 
 # 1. Purpose & Safety Notes
-This vignette demonstrates how I wrangle MS severity measures and covariates **using synthetic data only**.  
-It mirrors typical steps from my internal workflow:
+This vignette demonstrates how to wrangle MS severity measures and covariates **using synthetic data only**.  
 - Map **MS20** (survey response) to **EDSS categories**
 - Compute **disease duration** and demo a **MSSS** lookup (example bins)
 - Assemble cognitive scores (**SDMT**, **CVLT Total**)
